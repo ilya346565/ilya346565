@@ -1,16 +1,15 @@
-## Hi there 👋
+Hello! I am ilya346565, I am a programmer and computer scientist, I am studying at the Algoritmika programming school! I can create custom programs in Python for little money. I also have a YouTube channel - youtube.com/@ilyaandrosoft
 
-<!--
-**ilya346565/ilya346565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Small facts:
+1. I am kind
+2. I am engaged in reflashing Android smartphones
+3. I am engaged in reinstalling Windows
+4. I can maintain a dialogue with an adequate and sincere person
 
-Here are some ideas to get you started:
+You can contact me on Telegram
+Telegram - t.me/ilya346565
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can support me with a donation on DonationAlerts
+DonationAlerts - donationalerts.com/r/ilya_androsoft?clckid=44d51eea
+
+Thank you for your attention❤️❤️❤️
